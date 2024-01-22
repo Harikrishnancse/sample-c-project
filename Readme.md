@@ -56,6 +56,7 @@ ubuntu@ip-172-31-8-142:~/my-c-proj$ make
 [100%] Built target my-c-project
 
 ubuntu@ip-172-31-8-142:~/my-c-proj$ 
+
 ----------------------------------
 
 
